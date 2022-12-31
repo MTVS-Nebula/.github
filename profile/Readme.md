@@ -17,18 +17,18 @@ Nebula - 52Hertz
 - Configuration file server
 <br><br>
 
-### InfraStructure
+## InfraStructure
 - 대용량 트래픽과 재해복구를 고려한 인프라 설계
 - AWS를 이용한 배포
 - Agora와 Pothon등 기존 상용 제공 서비스를 통해 실시간 통신 안정성 확보
   ![](https://cdn.discordapp.com/attachments/1020207271692738623/1058674857069522964/image.png)
 
-### Client-to-server Communication
+## Client-to-server Communication
 - Restful 통신으로 클라이언트-서버간 통신
   ![](https://cdn.discordapp.com/attachments/1020207271692738623/1058676390557401130/image.png)
 - 통신 데이터 엔티티 선정과 커뮤니케이션을 위한 노션과 미로 사용
 
-### 💡 52 Hertz main Idea 
+## 💡 52 Hertz main Idea 
 관심사 기반 유저 탐색을 통한 실시간 멀티미디어 소통 구현
 - 비슷한 취향끼리 가까이 모여 있도록 취향 정보 군집 시각화 <br>
 ![](https://cdn.discordapp.com/attachments/1020207271692738623/1058671600137949194/image.png)
