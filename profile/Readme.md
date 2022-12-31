@@ -2,6 +2,16 @@ Nebula - 52Hertz
 =============
 취향 플랫폼/유저 활동 기반 군집 메타버스 커뮤니티 52Hertz<br>
 
+<b>진행기간</b> : 2022.10.04 ~ 2022.12.01 <br>
+
+<b>수상내역</b> <br>
+🏆 메타버스 아카데미 한국 전파 진흥 협회장상 수상<br>
+💰 서강대학교 대학원 연계 프로젝트로 연장 진행 선정<br>
+
+<b>시연 영상</b><br>
+https://drive.google.com/file/d/1jowlYu41MOhycSbfPfy8nCExCNKKLyQq/view?usp=sharing
+
+
 ## Co-work
 - Notion : https://kimdy97.notion.site/52-Hertz-bb93d6c4b63246dab4cac38b7f065d15
 - Miro : https://miro.com/app/board/uXjVPNYTnjs=/?share_link_id=265807074984
